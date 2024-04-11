@@ -1,0 +1,12 @@
+{
+  "date": "2024-04-11T00:00:00.000000000Z",
+  "chain_id": 1,
+  "transactions_per_block": 10,
+  "difficulty": 6,
+  "mining_reward": 100,
+  "gas_price": 15,
+  "balances": {
+    "1": 1000000,
+    "2": 1000000
+  }
+}
